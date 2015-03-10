@@ -1,4 +1,4 @@
-# DurationHelpers
+# DurationHelpers [![Build Status](https://travis-ci.org/dbackowski/duration_helpers.svg)](https://travis-ci.org/dbackowski/duration_helpers)
 
 DurationHelpers provides rails helpers for converting duration in H:M:S format to seconds and seconds to duration in H:M:S format.
 
